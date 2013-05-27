@@ -1,0 +1,25 @@
+The WAGES1 files contain 3296 USA working individuals with the 
+following information for 1987. The data are taken from the 
+National Longitudinal Survey.
+
+Variable list:
+
+exper male school wage
+
+Labels:
+exper: experience in years
+male: 1 if male, 0 otherwise
+school: years of schooling
+wage: wage (in 1980 $) per hour
+
+Sample statistics:
+
+Variable |     Obs        Mean   Std. Dev.       Min        Max                 
+---------+-----------------------------------------------------                 
+   exper |    3296    8.041869   2.290855          1         18                 
+    male |    3296    .5239684    .499501          0          1                 
+  school |    3296    11.63016   1.657114          3         16                 
+    wage |    3296    5.816391   4.054694   .0765556   112.7919   
+
+
+25/9/1998
